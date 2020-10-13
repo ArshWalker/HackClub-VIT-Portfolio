@@ -55,10 +55,10 @@ input {
   font-size: 1.5em;
   font-weight: 300;
 }
-#intro .content .socials {
+#intro .content .social {
   padding: 35px 0;
 }
-#intro .content .socials a {
+#intro .content .social a {
   color: #fff;
   display: inline-block;
   font-size: 1.2em;
@@ -73,7 +73,7 @@ input {
   transition: all 0.15s linear;
   transform: scale(1);
 }
-#intro .content .socials a:hover {
+#intro .content .social a:hover {
   color: #ccf;
   border: 1px solid #ccf;
   transform: scale(1.5);
